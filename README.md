@@ -3,7 +3,10 @@
 A simple but powerful CLI-based SMTP email sender built in Python.  
 Made by **Moncef Fennan** ([@m0nc3f3](https://github.com/m0nc3f3))
 
----
+--- 
+
+## example usage
+<img src="exampler.png">
 
 ## Features
 
